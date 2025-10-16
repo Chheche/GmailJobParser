@@ -16,7 +16,9 @@ Insertion des informations directement dans une table PostgreSQL (candidatures).
 
 Prérequis
 
-Python 3.8+ Google API Credentials (credentials.json) Bibliothèques Python : pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client spacy psycopg2-binary python -m spacy download fr_core_news_md
+- Python 3.8+
+- Google API Credentials (credentials.json)
+- Bibliothèques Python : pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client spacy psycopg2-binary python -m spacy download fr_core_news_md
 
 Technologies:
 
@@ -24,4 +26,5 @@ Python 3
 Google Gmail API
 spaCy (NLP en français)
 PostgreSQL
+
 Auteur: Rafael BARRETO PANNETIER
